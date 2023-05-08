@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : 오순도순                                    # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1634542335                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : 오순도순                                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : MBTI 어플로 당신의 성격 유형을 알아보세요!
+app_description                           : MBTI 어플로 당신의 성격 유형을 알아보세요! 자신의 성격 특성을 이해하면 더 나은 인간관계와 직업 선택, 그리고 삶을 즐기는 방법을 찾을 수 있습니다.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
